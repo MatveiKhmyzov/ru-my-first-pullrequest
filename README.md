@@ -252,3 +252,5 @@ echo git is awesome
 
 HI all, Hexlet is awesome!
 Ура! Кажется у меня получилось!
+
+Привет, Мир! Спасибо, Хекслет! УРА!
